@@ -1,2 +1,2 @@
  # Ai-Math
-ai 수학 gsp 
+ai 수학 gsp
